@@ -1,0 +1,11 @@
+.vertical-center {
+    position:relative;
+    top:30vh
+}
+
+.auth{
+    font-family: 'Homemade Apple', cursive;
+}
+.lead{
+    font-size: 2em;
+}
